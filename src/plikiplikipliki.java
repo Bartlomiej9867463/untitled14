@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.Arrays;
 
- public class plikiplikipliki5 {
+ public class plikiplikipliki {
         public static File[] wypisz(String path)
         {
             File dir = new File(path);
